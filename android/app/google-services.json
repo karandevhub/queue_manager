@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380823927569",
+    "project_id": "lawazia-token-app",
+    "storage_bucket": "lawazia-token-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380823927569:android:c7adedb8747dba3fa6eab0",
+        "android_client_info": {
+          "package_name": "com.token_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Tj7bWHuRSlwioWvkkWICiQGXg5jPSM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
